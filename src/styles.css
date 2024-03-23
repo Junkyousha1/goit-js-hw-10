@@ -1,0 +1,15 @@
+.is-hidden {
+  display: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+}
+img {
+  max-height: 30%;
+}

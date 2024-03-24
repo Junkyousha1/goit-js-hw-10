@@ -3,13 +3,12 @@
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
   margin: 20px;
 }
 img {
-  max-height: 30%;
+  float: left;
+  margin-right: 10px;
+}
+.cat-info {
+  text-align: left;
 }
